@@ -1,3 +1,9 @@
+-- Layoffs SQL Data Cleaning Project
+-- Author: Hawawu A. Ogundimu
+-- Tool: MySQL
+-- Source: https://github.com/AlexTheAnalyst/SQL-Project
+-- Description: Full SQL script for cleaning and preparing a layoffs dataset
+
 -- 📌 STEP 1: View & Prepare Data --
 
 SELECT *
